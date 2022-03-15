@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @reicorj
 - 👀 I’m interested in ...WebDevloping, Application Development and Machine Learning
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by email rajabupazi89@gmail.com
 
